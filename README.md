@@ -3,4 +3,6 @@ New Repository
 
 Frank here
 
-Just testing out github, branching and making committs
+Just testing out github, branching and making commitments
+
+
